@@ -33,7 +33,7 @@ Collection of exercises and projects completed in the scope of the different [Fr
 - [Express Social Auth](https://glitch.com/~les-express-social-auth)
 ## Projects
 - [Metric-Imperial Converter](https://glitch.com/~pj-met-imp-conv)
-- [Issue Tracker]()
+- [Issue Tracker](https://glitch.com/~pj-issue-tracker)
 - Personal Library
 - Stock Price Checker
 - Anonymous Message Board
