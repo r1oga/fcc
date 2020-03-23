@@ -1,5 +1,5 @@
 # FreeCodeCamp
-Collection exercices and projects completed in the scope of the different [FreeCodeCamp](FreeCodeCamp Information Security and Quality Assurance Certification:) Certifications.
+Collection of exercises and projects completed in the scope of the different [FreeCodeCamp](https://www.freecodecamp.org/) Certifications.
 ## [Responsive Web Design](https://www.freecodecamp.org/certification/r1oga/responsive-web-design)
 ## Projects
 - [Build a tribute page](https://gist.github.com/r1oga/4ed6e21b40effb29e41967c2512477be)
@@ -9,17 +9,20 @@ Collection exercices and projects completed in the scope of the different [FreeC
 - [Build a Personal Portfolio Webpage](https://gist.github.com/r1oga/1ccf07cb8a66f00237f0690286802b75)
 
 # [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/r1oga/javascript-algorithms-and-data-structures)
-# [APIs and Microservices Certification](https://www.freecodecamp.org/certification/r1oga/apis-and-microservices)
+# [APIs and Microservices](https://www.freecodecamp.org/certification/r1oga/apis-and-microservices)
+## Exercises
 ## Projects
 - Timestamp Microservice
-- Request Header Parser Microservice
-- URL Shortener Microservice
-- Exercise Tracker
-- File Metadata Microservice
-# [Information Security and Quality Assurance Certification]()
-- Metric-Imperial Converter
-- Issue Tracker
-- Personal Library
-- Stock Price Checker
-- Anonymous Message Board
+-  Request Header Parser Microservice
+-  URL Shortener Microservice
+-  Exercise Tracker
+-  File Metadata Microservice
 
+# [Information Security and Quality Assurance]()
+## Exercises
+## Project
+-  Metric-Imperial Converter
+-  Issue Tracker
+-  Personal Library
+-  Stock Price Checker
+-  Anonymous Message Board
