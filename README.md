@@ -13,16 +13,16 @@ Collection of exercises and projects completed in the scope of the different [Fr
 ## Exercises
 ## Projects
 - Timestamp Microservice
--  Request Header Parser Microservice
--  URL Shortener Microservice
--  Exercise Tracker
--  File Metadata Microservice
+- Request Header Parser Microservice
+- URL Shortener Microservice
+- Exercise Tracker
+- File Metadata Microservice
 
 # [Information Security and Quality Assurance]()
 ## Exercises
 ## Project
--  Metric-Imperial Converter
--  Issue Tracker
--  Personal Library
--  Stock Price Checker
--  Anonymous Message Board
+- [Metric-Imperial Converter](./infosec/metric-imp-conv)
+- Issue Tracker
+- Personal Library
+- Stock Price Checker
+- Anonymous Message Board
