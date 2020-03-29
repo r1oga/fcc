@@ -9,6 +9,14 @@ Collection of exercises and projects completed in the scope of the different [Fr
 - [Build a Technical Documentation Page](https://gist.github.com/r1oga/48af8ea93efa54f162360194e296fbfd)
 - [Build a Personal Portfolio Webpage](https://gist.github.com/r1oga/1ccf07cb8a66f00237f0690286802b75)
 
+## Front End Libraries
+[📜 Certification]()
+### Projects
+- [Build a random quote machine](https://codepen.io/r1oga/full/dyowgEP)
+- [Build a markdown previewer](https://codepen.io/r1oga/full/XWboopj)
+- [Build a drum machine](https://r1oga.github.io/dj-covid/)
+- [Build a JavaScript calculator](./front-end-libraries-projects/javascript-calculator)
+- [Build a pomodoro clock](./front-end-libraries-projects/pomodoro-clock)
 ## Data Visualization
 [📜 Certification](https://www.freecodecamp.org/certification/r1oga/data-visualization)
 ### Projects
