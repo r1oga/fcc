@@ -1,5 +1,5 @@
 # FreeCodeCamp
-Collection of exercises and projects completed in the scope of the different [FreeCodeCamp](https://www.freecodecamp.org/) Certifications.
+Collection of exercises and projects completed in the scope of the different [FreeCodeCamp](https://www.freecodecamp.org/) Certifications.  
 [📜 Full Stack Certification](https://www.freecodecamp.org/certification/r1oga/full-stack)
 ## Responsive Web Design
 [📜 Certification](https://www.freecodecamp.org/certification/r1oga/responsive-web-design)
@@ -29,6 +29,12 @@ Collection of exercises and projects completed in the scope of the different [Fr
 
 ## JavaScript Algorithms and Data Structures
 [📜 Certification](https://www.freecodecamp.org/certification/r1oga/javascript-algorithms-and-data-structures)
+### Projects
+- [Palindrom Checker](https://gist.github.com/r1oga/b8ac8d77ecce6fe0c55f059c09592eaa)
+- [Roman Numeral Converter](https://gist.github.com/r1oga/20dc37232531dca1c579b882f6ccd802)
+- [Caesars Cipher](https://gist.github.com/r1oga/362b6bb67efbb12071819e76bb77548d)
+- [Telephone Number validator](https://gist.github.com/r1oga/a11591e23334ff26c0e5e07e2539142c)
+- [Cash Register](https://gist.github.com/r1oga/421ce86aa3f3b0a3d38c4454878eadcd)
 ## APIs and Microservices
 [📜 Certification](https://www.freecodecamp.org/certification/r1oga/apis-and-microservices)
 ### Exercises
